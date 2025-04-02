@@ -28,6 +28,7 @@ A scatter plot showing:
 ⚫ Dashed black line (the hyperplane) separating the two classes.
 
 ## Explanation
+
     - The hyperplane is defined by the equation:  (or ).
     - Points on one side of the hyperplane belong to Class 1.
     - Points on the other side belong to Class 2.
