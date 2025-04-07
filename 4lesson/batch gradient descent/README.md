@@ -21,4 +21,3 @@ To install dependencies, run:
 
 ```sh
 pip install numpy matplotlib
-s

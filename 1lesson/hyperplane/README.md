@@ -27,5 +27,6 @@ A scatter plot showing:
 
 ⚫ Dashed black line (the hyperplane) separating the two classes.
 
+
 ```sh
 pip install numpy matplotlib
